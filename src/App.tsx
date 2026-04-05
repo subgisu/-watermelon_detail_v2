@@ -28,7 +28,7 @@ export default function App() {
         <section className="relative bg-white pt-0 pb-20 overflow-hidden text-center">
           <div className="relative h-[420px] sm:h-[540px] w-full overflow-hidden">
             <img 
-              src="/-watermelon_detail_v2/Watermelon.png" 
+              src="/watermelon_detail_v2/Watermelon.png" 
               alt="수박 농장 배경" 
               className="w-full h-full object-cover"
             />
@@ -39,7 +39,7 @@ export default function App() {
                   맑은 달콤함, 한입에 퍼지다
                 </p>
                 <img 
-                  src="/-watermelon_detail_v2/topcopy.png" 
+                  src="topcopy.png" 
                   alt="제철을 담아낸 진한 단맛" 
                   className="h-auto w-auto max-w-[85%] max-h-[110px] sm:max-h-[150px] object-contain drop-shadow-lg mx-auto"
                 />
@@ -50,7 +50,7 @@ export default function App() {
           <div className="relative z-20 -mt-16 w-full">
             <FadeIn delay={0.2}>
               <img 
-                src="/-watermelon_detail_v2/Watermelonslice1.webp" 
+                src="Watermelonslice1.webp" 
                 alt="프리미엄 수박" 
                 className="w-full h-[320px] sm:h-[420px] object-cover"
               />
@@ -75,7 +75,7 @@ export default function App() {
         <section className="relative bg-white pb-24">
           <FadeIn className="w-full">
             <div className="relative w-full h-[350px] sm:h-[450px] overflow-hidden">
-              <img src="/-watermelon_detail_v2/woman-farmer.jpg" alt="채움농장 농부" className="w-full h-full object-cover" />
+              <img src="woman-farmer.jpg" alt="채움농장 농부" className="w-full h-full object-cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent flex flex-col justify-end p-8 sm:p-10 text-left">
                 <p className="text-white text-xl sm:text-2xl font-bold mb-2">정직한 땀방울로 키워냅니다</p>
                 <p className="text-white/70 text-sm">채움농장 대표 농부</p>
@@ -115,7 +115,7 @@ export default function App() {
         {/* SECTION 4: Cultivation */}
         <section className="relative bg-white overflow-hidden">
           <FadeIn className="w-full relative">
-            <img src="/-watermelon_detail_v2/watermelon%20field.jpg" alt="수박밭 전경" className="w-full h-[400px] sm:h-[520px] object-cover" />
+            <img src="watermelon%20field.jpg" alt="수박밭 전경" className="w-full h-[400px] sm:h-[520px] object-cover" />
             <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-white"></div>
           </FadeIn>
           <div className="relative z-10 px-8 pb-24 -mt-20">
@@ -169,7 +169,7 @@ export default function App() {
         {/* SECTION 6: Juicy Taste */}
         <section className="relative bg-white overflow-hidden">
           <FadeIn className="w-full relative">
-            <img src="/-watermelon_detail_v2/watermelon-splashing.jpg" alt="과즙 가득한 수박" className="w-full h-[380px] sm:h-[480px] object-cover" />
+            <img src="watermelon-splashing.jpg" alt="과즙 가득한 수박" className="w-full h-[380px] sm:h-[480px] object-cover" />
             <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-white"></div>
           </FadeIn>
           <div className="relative z-10 px-8 pb-24 -mt-16">
@@ -192,7 +192,7 @@ export default function App() {
         {/* SECTION 7: Texture */}
         <section className="relative bg-white overflow-hidden pb-24">
           <FadeIn className="w-full relative">
-            <img src="/-watermelon_detail_v2/watermelon-table.jpg" alt="아삭한 수박 조각" className="w-full h-[350px] sm:h-[450px] object-cover" />
+            <img src="watermelon-table.jpg" alt="아삭한 수박 조각" className="w-full h-[350px] sm:h-[450px] object-cover" />
             <div className="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-white to-transparent"></div>
           </FadeIn>
           <div className="relative z-10 px-8 mt-8">
